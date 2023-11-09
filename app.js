@@ -7,7 +7,7 @@ const routes = require('./routes/web');
 app.set('view engine', 'ejs');
 app.use(express.static('public'));
 
-app.use('/img', express.static('public/img'));
+// app.use('/img', express.static('public/img'));
 
 app.use(routes);
 
