@@ -10,8 +10,8 @@ const nea3 = new nea(3, 'Brayan', 1.90, 'Hurto en cualquier ambiente social', ba
 const nea4 = new nea(4, 'Pinina', 1.67, 'Tiro fijo', baseURL + 'nea4.png', 'Mami lengua de camello para ese culo tan bello');
 const nea5 = new nea(5, 'Yeison', 1.75, 'Dejar a sus oponentes sin opinión', baseURL + 'nea5.png', 'No soy quevedo ni soy neruda pero tu mi amor me la pones dura');
 const nea6 = new nea(6, 'Christian', 1.55, 'Tussi cegador', baseURL + 'nea6.png', 'Hablalo ome mojarra');
-const nea7 = new nea(7, 'Yerson', 1.77, 'Negocios ilicito a buen precio', baseURL + 'nea8.png', 'Tiene mas futuro antier'); 
-const nea8 = new nea(8, 'Yasuri', 1.60, 'Corte de cara con la Gilette', baseURL + 'nea9.png', 'Pero salio como pinocha esta tripleguerrillera subversiva desmovilizada');
+const nea7 = new nea(7, 'Yerson', 1.77, 'Negocios ilicito a buen precio', baseURL + 'nea9.png', 'Tiene mas futuro antier'); 
+const nea8 = new nea(8, 'Yasuri', 1.60, 'Corte de cara con la Gilette', baseURL + 'nea8.png', 'Pero salio como pinocha esta tripleguerrillera subversiva desmovilizada');
 
 module.exports = [nea1, nea2, nea3, nea4, nea5, nea6, nea7, nea8];
 
